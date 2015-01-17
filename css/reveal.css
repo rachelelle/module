@@ -287,7 +287,8 @@ body {
 
 .reveal p {
 	margin-bottom: 10px;
-	line-height: 1.2em;
+	margin-top: 10px;
+	line-height: 1.3em;
 }
 
 .reveal q,
